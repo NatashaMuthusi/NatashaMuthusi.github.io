@@ -1,8 +1,11 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello, I am "Natasha Muthusi", a digital forensics enthusiast.
+- Skilled in Wireshark, Microsoft Sentinel, Microsoft Defender, Splunk and Autopsy.
+- Passionate about DFIR.
+- Learning about Windows and Linux Operating systems.
+- Learning how to create digital forensics reports.
